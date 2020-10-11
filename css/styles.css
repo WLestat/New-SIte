@@ -137,6 +137,10 @@ span {
   margin: 50px;
 }
 
+.footer-link:hover {
+color: white;
+}
+
 .copyright {
   color: #eaf6f6;
   font-size: 0.7rem;
